@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:dunglv202-dev/tot-nghiep-fe.git
+	url = https://github.com/dunglv202/renting-fe.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:dunglv202-dev/tot-nghiep-be.git
+	url = https://github.com/dunglv202/renting-be.git
