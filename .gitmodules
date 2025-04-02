@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/dunglv202/renting-fe.git
+	url = https://github.com/dunglv202/free4rent-fe.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/dunglv202/renting-be.git
+	url = https://github.com/dunglv202/free4rent-be.git
